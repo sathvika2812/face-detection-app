@@ -5,7 +5,7 @@ import numpy as np
 from detection_utils import detect_faces
 
 st.set_page_config(page_title="Face Detection App", page_icon="🧠", layout="wide")
-st.title("🧠 Face Detection App - MTCNN | Haar")
+st.title("Face Detection App")
 st.write("Detect faces in real-time or from uploaded images. MTCNN is used by default.")
 
 # Sidebar Controls

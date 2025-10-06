@@ -2,4 +2,4 @@ streamlit
 opencv-python-headless
 mtcnn
 numpy
-tensorflow==2.14.0
+tensorflow==2.13.0
