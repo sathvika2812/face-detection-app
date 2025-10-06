@@ -1,6 +1,6 @@
 # Face Detection App
 
-A **real-time face detection app** using **Haar Cascade**, **Dlib**, and **MTCNN** — all techniques can be used.
+A **real-time face detection app** using **MTCNN (default)** and **Haar Cascade** — default mtcnn on Streamlit Cloud.
 
 ## Features
 - Detect faces from webcam (real-time)
@@ -20,4 +20,5 @@ git clone https://github.com/YOUR_USERNAME/face-detection-app.git
 cd face-detection-app
 pip install -r requirements.txt
 streamlit run face_detection_app.py
+
 
